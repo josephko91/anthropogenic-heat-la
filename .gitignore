@@ -1,6 +1,7 @@
 # folders to ignore
 data/
 plots/
+raw_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
